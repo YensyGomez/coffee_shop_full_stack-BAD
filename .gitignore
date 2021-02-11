@@ -1,6 +1,10 @@
-.vscode
-__pycache__
-venv
+coffe_venv/
+.vscode/
+__pycache__/
+test.db
+venv/
+.idea
+
 
 # OS generated files #
 ######################
