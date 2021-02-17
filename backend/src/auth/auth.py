@@ -5,7 +5,8 @@ from jose import jwt
 from urllib.request import urlopen
 
 
-AUTH0_DOMAIN = 'dev-mdu6e46r.eu.auth0.com'
+# Modified auth0 domain and api audience
+AUTH0_DOMAIN = 'yehegovi45.eu.auth0.com'
 ALGORITHMS = ['RS256']
 API_AUDIENCE = 'http://localhost:5000'
 
